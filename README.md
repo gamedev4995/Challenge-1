@@ -1,6 +1,6 @@
 # Challenge 1
 
-## Front:
+## Front (3 cubes):
 - For the front of the house, we used three 3D cubes to make up the front. Two of the cubes were used for the sides, leaving a space between each acting as a door. The third and final cube, we adjusted it at the top of the other two cubes and made it longer so that it connects the first two cubes accordingly,  leaving us with the first wall of the house completed. This 3-cube plan make it easy to have that small gap you need for your door.
 
 <img width="600" alt="1" src="https://github.com/user-attachments/assets/5e5fffd1-be99-4fce-ae3f-d905b0a3a8d4">
@@ -35,5 +35,5 @@
 
 ---
 
-## Roof:
+## Roof (2 cubes):
 
