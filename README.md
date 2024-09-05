@@ -40,3 +40,10 @@
 
 ## Roof (2 cubes):
 
+
+
+--- 
+
+## Experiences Gained:
+- For me, this experience on our first project together was fun and exciting. At first, we went through a few hardships like making sure everything was running for the three of us correctly to combating errors the project was giving us. It was a simple task in my opinion yet exciting to finally be able to create something and work with my group at the same time; getting excited when we could see each other's adjustments on our own computers. I've never worked with Unity before, so the whole process for me was very interesting and educative, which I thoroughly enjoyed. Within time during the semester, I know it will get even more interesting and challenging, but I'm excited to learn the new features and skills of Unity ahead of us.
+> Amanda Rivera Santos
