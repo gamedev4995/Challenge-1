@@ -39,7 +39,9 @@
 ---
 
 ## Roof (2 cubes):
-
+- For the roof of the house, we first placed a 3D cube and adjusted it's sides to make a rectangle that long enough to create an overhang.
+  
+<img width="500" alt="Screenshot 2024-09-05 185249" src="https://github.com/user-attachments/assets/f78e6290-d1fe-411a-8134-76fea717f37e">
 
 
 --- 
