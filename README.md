@@ -20,15 +20,14 @@
 
 ## Walls (3 cubes):
 - For the rest of the house (the side walls and the back), we used three cubes with the exact same scale parameters(x,y,z) for symmetry all around. For the side walls, we adjusted the y-rotation of the cubes to 90º degrees to get the 3D effect in motion. For the position, we adjusted them to fit accordingly to the first wall we made first.
-  - Tip: the positions for both cubes at the sides are the exact same, just adjust one of the cubes x-position to the negative/positive of the number you have set!
 
 <img width="600" alt="Screenshot 2024-09-05 at 6 14 44 PM" src="https://github.com/user-attachments/assets/1ca6a7fa-9796-4a5b-95ba-59d690e598f1">
 
   #### Parameters of the two cubes for the walls:
-  
+   - Tip: the positions for both cubes at the sides use the exact same vales except the x-position. Just adjust one of the cube's x-position to the negative/positive number you have set of the other cube.
   <img width="291" alt="Screenshot 2024-09-05 at 6 21 09 PM" src="https://github.com/user-attachments/assets/f636fde5-9a3e-42c0-87a5-4a011bf6976c">
 
-  
+
 - For the wall of the back of the house, we used one single cube and kept the rotation as normal (0º degrees). We positioned it to connect both walls giving us our base for our house finally complete.
 
 <img width="600" alt="2" src="https://github.com/user-attachments/assets/15963c02-45ea-49fd-8af2-7e0cb2e0baad">
