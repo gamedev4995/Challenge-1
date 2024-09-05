@@ -29,7 +29,7 @@
   <img width="291" alt="Screenshot 2024-09-05 at 6 21 09 PM" src="https://github.com/user-attachments/assets/f636fde5-9a3e-42c0-87a5-4a011bf6976c">
 
   
-- For the wall of the back of the house, we kept the roation as normal (0º degrees) and only positioned it to connect both walls giving us our base for our house.
+- For the wall of the back of the house, we used one single cube and kept the rotation as normal (0º degrees). We positioned it to connect both walls giving us our base for our house finally complete.
 
 <img width="600" alt="2" src="https://github.com/user-attachments/assets/15963c02-45ea-49fd-8af2-7e0cb2e0baad">
 
