@@ -7,7 +7,7 @@
 <img width="600" alt="Screenshot 2024-09-05 at 8 50 17 PM" src="https://github.com/user-attachments/assets/1adcc0f6-cea3-4962-ab1d-3a9a4d8a7ccf">
 
 
-- The third and final cube, we adjusted it at the top of the other two cubes and made it longer so that it connects the two cubes accordingly, leaving us with the first wall of the house completed. This 3-cube plan make it easy to have that small gap you need for your door.
+- For the third and final cube, we adjusted it at the top of the other two cubes and made it longer so that it connects the two cubes accordingly, leaving us with the first wall of the house completed. This 3-cube plan make it easy to have that small gap you need for your door.
 
 
 <img width="600" alt="1" src="https://github.com/user-attachments/assets/5e5fffd1-be99-4fce-ae3f-d905b0a3a8d4">
