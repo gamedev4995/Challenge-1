@@ -50,7 +50,10 @@
   
 <img width="500" alt="Screenshot 2024-09-05 185249" src="https://github.com/user-attachments/assets/f78e6290-d1fe-411a-8134-76fea717f37e">
 
-- Then we rotated it from from the z axis at an angle of our preference as the right side for the gable roof style and lowered it down so that it connects with the wall of the house.
+- Then we rotated it from from the z-axis at an angle of our preference as the right side for the gable roof style and lowered it down so that it connects with the wall of the house.
+
+<img width="500" alt="Screenshot 2024-09-05 122230" src="https://github.com/user-attachments/assets/8e1de950-cf4d-4a04-84af-e039511addcc">
+
 
   #### Parameters of the cube for the right side of the roof:
   
