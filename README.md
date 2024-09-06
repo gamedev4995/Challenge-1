@@ -57,6 +57,7 @@
   
   <img width="291" alt="Screenshot Left Roof" src="https://github.com/user-attachments/assets/8cfd4a34-6f29-44c1-8a03-462fac0c1e80">
 
+
 - Depending on the size chosen for the cubes, adjustments to the scale of each cube might be needed, as it occurred in our case, where the roof was left with a gap. So, we extended them as needed to the point where they perfectly intersect in the middle of the house without any visible gaps or overlaps. Which left us with the final version of the gable roof house!
   
 ## Result:
