@@ -7,7 +7,7 @@
 
 
 
-- For the third and final cube, we adjusted it at the top of the other two cubes and made it longer so that it connects the two cubes accordingly, leaving us with the first wall of the house completed. This 3-cube plan make it easy to have that small gap you need for your door.
+- For the third and final cube, we adjusted it at the top of the other two cubes and made it longer so that it connects the two cubes accordingly, leaving us with the first wall of the house completed. This 3-cube plan makes it easy to have that small gap you need for your door.
 
 
 <img width="393" alt="1" src="https://github.com/user-attachments/assets/0b6bfdf8-3012-42df-8246-3c5d17885c34">
