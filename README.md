@@ -39,12 +39,31 @@
 ---
 
 ## Roof (2 cubes):
-- For the roof of the house, we first placed a 3D cube and adjusted it's sides to make a rectangle that long enough to create an overhang.
+- For the roof of the house, we first placed a 3D cube and adjusted it's sides to make a rectangle long enough to create an overhang.
   
 <img width="500" alt="Screenshot 2024-09-05 185249" src="https://github.com/user-attachments/assets/f78e6290-d1fe-411a-8134-76fea717f37e">
 
+- Then we rotated it from from the z axis at an angle of our preference as the right side for the gable roof style and lowered it down so that it connects with the wall of the house.
+
+  #### Parameters of the cube for the right side of the roof:
+  
+  <img width="291" alt="Screenshot Right Roof" src="https://github.com/user-attachments/assets/c7044f57-a4fd-4366-be97-3885a733a80d">
+
+- For the other side, we duplicated the right side of the roof and changed the x and z coordinates to it's opposite values for symmetry.
+
+<img width="500" alt="Screenshot 2024-09-05 123249" src="https://github.com/user-attachments/assets/22913412-da6c-4abb-9dbc-ab8401980e6d">
+
+  #### Parameters of the cube for the left side of the roof:
+  
+  <img width="291" alt="Screenshot Left Roof" src="https://github.com/user-attachments/assets/8cfd4a34-6f29-44c1-8a03-462fac0c1e80">
+
+- Depending on the size chosen for the cubes, adjustments to the scale of each cube might be needed, as it occurred in our case, where the roof was left with a gap. So, we extended them as needed to the point where they perfectly intersect in the middle of the house without any visible gaps or overlaps. Which left us with the final version of the gable roof house!
+  
+  #### House Result:
+<img width="500" alt="Screenshot 2024-09-05 180547" src="https://github.com/user-attachments/assets/d26254b9-bf23-45eb-9538-4ee6401f4e1b">
 
 --- 
+
 
 ## Experiences Gained:
 - For me, this experience on our first project together was fun and exciting. At first, we went through a few hardships like making sure everything was running for the three of us correctly to combating errors the project was giving us. It was a simple task in my opinion yet exciting to finally be able to create something and work with my group at the same time; getting excited when we could see each other's adjustments on our own computers. I've never worked with Unity before, so the whole process for me was very interesting and educative, which I thoroughly enjoyed. Within time during the semester, I know it will get even more interesting and challenging, but I'm excited to learn the new features and skills of Unity ahead of us.
